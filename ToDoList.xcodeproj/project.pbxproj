@@ -32,6 +32,7 @@
 		FAAE9A692A07C9130018D806 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE9A682A07C9130018D806 /* ToDoListItemViewViewModel.swift */; };
 		FAAE9A6B2A07CF0C0018D806 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE9A6A2A07CF0C0018D806 /* HeaderView.swift */; };
 		FAAE9A6D2A0FBCCF0018D806 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE9A6C2A0FBCCF0018D806 /* ButtonView.swift */; };
+		FAAE9A6F2A0FFE400018D806 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE9A6E2A0FFE400018D806 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		FAAE9A682A07C9130018D806 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		FAAE9A6A2A07CF0C0018D806 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		FAAE9A6C2A0FBCCF0018D806 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		FAAE9A6E2A0FFE400018D806 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				FA0916B62A07B4F200E7F2AE /* Assets.xcassets */,
 				FA0916C72A07B98D00E7F2AE /* GoogleService-Info.plist */,
 				FA0916B22A07B4F000E7F2AE /* ToDoListApp.swift */,
+				FAAE9A6E2A0FFE400018D806 /* Extensions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				FAAE9A652A07C8E50018D806 /* LoginViewViewModel.swift in Sources */,
 				FA0916B32A07B4F000E7F2AE /* ToDoListApp.swift in Sources */,
 				FAAE9A5B2A07C81F0018D806 /* ToDoListItem.swift in Sources */,
+				FAAE9A6F2A0FFE400018D806 /* Extensions.swift in Sources */,
 				FAAE9A512A07C7610018D806 /* NewItemView.swift in Sources */,
 				FAAE9A6D2A0FBCCF0018D806 /* ButtonView.swift in Sources */,
 				FAAE9A632A07C8D10018D806 /* NewItemViewViewModel.swift in Sources */,
